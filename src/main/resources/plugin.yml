@@ -1,0 +1,5 @@
+name: CommandExtender
+version: '${project.version}'
+main: net.lordofthecraft.commandextender.CommandExtender
+api-version: '1.18'
+authors: [Adelemphii]
